@@ -2,8 +2,11 @@ Author: DracoY
 
 Text Analyzer v04
 
+
 Run     : main.py on terminal
+
 Function: Reads a file content and creates a symbol concordance
+
 Contact : /u/Red_Death_08 (Reddit)
 
 
